@@ -1,2 +1,2 @@
-# upmc-super-resolution
+# Super-resolution
 Super-résolution d'images 
